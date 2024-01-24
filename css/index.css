@@ -12227,3 +12227,10 @@ textarea.form-control-lg {
 .badge.bg-secondary, .badge.bg-light {
   color: #343a40;
 }
+
+#proflie{
+  display: flex;
+}
+#stacks{
+  display: flexbox;
+}
