@@ -12228,9 +12228,15 @@ textarea.form-control-lg {
   color: #343a40;
 }
 
-#proflie{
+#card {
   display: flex;
 }
+#profile{
+  margin: 10px;
+}
 #stacks{
-  display: flexbox;
+  margin: 10px;
+}
+.About{
+  text-align: center;
 }
